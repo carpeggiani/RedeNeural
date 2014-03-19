@@ -9,7 +9,7 @@ Universidade do Oeste de Santa Catarina - UNOESC/SC
 Campus Joaçaba
 Disciplina de Inteligência Artificial II
 
-Autores
+Autor
 ==========
 
 William Carpeggiani
