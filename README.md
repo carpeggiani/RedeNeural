@@ -2,7 +2,12 @@ RedeNeural
 ==========
 
 Desenvolvimento de uma Rede Neural em JAVA, para treinar o reconhecimento de padrões alfabéticos.
-Serão treinados todos os números de 0 à 9, e as letras do alfabeto.
+Serão treinados todos os números de 0 à 9, e todas as letras do alfabeto.
+
+Trabalho Acadêmico do Curso de Engenharia da Computação
+Universidade do Oeste de Santa Catarina - UNOESC/SC
+Campus Joaçaba
+Disciplina de Inteligência Artificial II
 
 Autores
 ==========
