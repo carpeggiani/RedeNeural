@@ -610,6 +610,406 @@ public class RedeNeural extends javax.swing.JFrame {
                 jlVinteQuatro.setBackground(Color.yellow);
                 jlVinteCinco.setBackground(Color.yellow);
                 break;
+            // Letra B
+            case 11:
+                limparQuadro();
+                jlUm.setBackground(Color.yellow);
+                jlDois.setBackground(Color.yellow);
+                jlTres.setBackground(Color.yellow);
+                jlQuatro.setBackground(Color.yellow);
+                jlCinco.setBackground(Color.yellow);
+                jlSeis.setBackground(Color.yellow);
+                jlOito.setBackground(Color.yellow);
+                jlDez.setBackground(Color.yellow);
+                jlOnze.setBackground(Color.yellow);
+                jlTreze.setBackground(Color.yellow);
+                jlQuinze.setBackground(Color.yellow);
+                jlDezeseis.setBackground(Color.yellow);
+                jlDezoito.setBackground(Color.yellow);
+                jlVinte.setBackground(Color.yellow);
+                jlVinteDois.setBackground(Color.yellow);
+                jlVinteQuatro.setBackground(Color.yellow);
+                break;
+            // Letra C
+            case 12:
+                limparQuadro();
+                jlDois.setBackground(Color.yellow);
+                jlTres.setBackground(Color.yellow);
+                jlQuatro.setBackground(Color.yellow);
+                jlSeis.setBackground(Color.yellow);
+                jlDez.setBackground(Color.yellow);
+                jlOnze.setBackground(Color.yellow);
+                jlQuinze.setBackground(Color.yellow);
+                jlDezeseis.setBackground(Color.yellow);
+                jlVinte.setBackground(Color.yellow);
+                jlVinteUm.setBackground(Color.yellow);
+                jlVinteCinco.setBackground(Color.yellow);
+                break;
+            // Letra D
+            case 13:
+                limparQuadro();
+                jlUm.setBackground(Color.yellow);
+                jlDois.setBackground(Color.yellow);
+                jlTres.setBackground(Color.yellow);
+                jlQuatro.setBackground(Color.yellow);
+                jlCinco.setBackground(Color.yellow);
+                jlSeis.setBackground(Color.yellow);
+                jlDez.setBackground(Color.yellow);
+                jlOnze.setBackground(Color.yellow);
+                jlQuinze.setBackground(Color.yellow);
+                jlDezeseis.setBackground(Color.yellow);
+                jlVinte.setBackground(Color.yellow);
+                jlVinteDois.setBackground(Color.yellow);
+                jlVinteTres.setBackground(Color.yellow);
+                jlVinteQuatro.setBackground(Color.yellow);
+                break;
+            // Letra E
+            case 14:
+                limparQuadro();
+                jlUm.setBackground(Color.yellow);
+                jlDois.setBackground(Color.yellow);
+                jlTres.setBackground(Color.yellow);
+                jlQuatro.setBackground(Color.yellow);
+                jlCinco.setBackground(Color.yellow);
+                jlSeis.setBackground(Color.yellow);
+                jlOito.setBackground(Color.yellow);
+                jlDez.setBackground(Color.yellow);
+                jlOnze.setBackground(Color.yellow);
+                jlTreze.setBackground(Color.yellow);
+                jlQuinze.setBackground(Color.yellow);
+                jlDezeseis.setBackground(Color.yellow);
+                jlDezoito.setBackground(Color.yellow);
+                jlVinte.setBackground(Color.yellow);
+                jlVinteUm.setBackground(Color.yellow);
+                jlVinteCinco.setBackground(Color.yellow);
+                break;
+            // Letra F
+            case 15:
+                limparQuadro();
+                jlUm.setBackground(Color.yellow);
+                jlDois.setBackground(Color.yellow);
+                jlTres.setBackground(Color.yellow);
+                jlQuatro.setBackground(Color.yellow);
+                jlCinco.setBackground(Color.yellow);
+                jlSeis.setBackground(Color.yellow);
+                jlOito.setBackground(Color.yellow);
+                jlOnze.setBackground(Color.yellow);
+                jlTreze.setBackground(Color.yellow);
+                jlDezeseis.setBackground(Color.yellow);
+                jlDezoito.setBackground(Color.yellow);
+                jlVinteUm.setBackground(Color.yellow);
+                break;
+            // Letra G
+            case 16:
+                limparQuadro();
+                jlDois.setBackground(Color.yellow);
+                jlTres.setBackground(Color.yellow);
+                jlQuatro.setBackground(Color.yellow);
+                jlSeis.setBackground(Color.yellow);
+                jlDez.setBackground(Color.yellow);
+                jlOnze.setBackground(Color.yellow);
+                jlTreze.setBackground(Color.yellow);
+                jlQuinze.setBackground(Color.yellow);
+                jlDezeseis.setBackground(Color.yellow);
+                jlDezoito.setBackground(Color.yellow);
+                jlVinte.setBackground(Color.yellow);
+                jlVinteUm.setBackground(Color.yellow);
+                jlVinteQuatro.setBackground(Color.yellow);
+                break;
+            // Letra H
+            case 17:
+                limparQuadro();
+                jlUm.setBackground(Color.yellow);
+                jlDois.setBackground(Color.yellow);
+                jlTres.setBackground(Color.yellow);
+                jlQuatro.setBackground(Color.yellow);
+                jlCinco.setBackground(Color.yellow);
+                jlOito.setBackground(Color.yellow);
+                jlTreze.setBackground(Color.yellow);
+                jlDezoito.setBackground(Color.yellow);
+                jlVinteUm.setBackground(Color.yellow);
+                jlVinteDois.setBackground(Color.yellow);
+                jlVinteTres.setBackground(Color.yellow);
+                jlVinteQuatro.setBackground(Color.yellow);
+                jlVinteCinco.setBackground(Color.yellow);
+                break;
+            // Letra I
+            case 18:
+                limparQuadro();
+                jlUm.setBackground(Color.yellow);
+                jlCinco.setBackground(Color.yellow);
+                jlSeis.setBackground(Color.yellow);
+                jlDez.setBackground(Color.yellow);
+                jlOnze.setBackground(Color.yellow);
+                jlDoze.setBackground(Color.yellow);
+                jlTreze.setBackground(Color.yellow);
+                jlQuatorze.setBackground(Color.yellow);
+                jlQuinze.setBackground(Color.yellow);
+                jlDezeseis.setBackground(Color.yellow);
+                jlVinte.setBackground(Color.yellow);
+                jlVinteUm.setBackground(Color.yellow);
+                jlVinteCinco.setBackground(Color.yellow);
+                break;
+            // Letra J
+            case 19:
+                limparQuadro();
+                jlUm.setBackground(Color.yellow);
+                jlQuatro.setBackground(Color.yellow);
+                jlSeis.setBackground(Color.yellow);
+                jlDez.setBackground(Color.yellow);
+                jlOnze.setBackground(Color.yellow);
+                jlDoze.setBackground(Color.yellow);
+                jlTreze.setBackground(Color.yellow);
+                jlQuatorze.setBackground(Color.yellow);
+                jlDezeseis.setBackground(Color.yellow);
+                jlVinteUm.setBackground(Color.yellow);
+                break;
+            // Letra K
+            case 20:
+                limparQuadro();
+                jlUm.setBackground(Color.yellow);
+                jlDois.setBackground(Color.yellow);
+                jlTres.setBackground(Color.yellow);
+                jlQuatro.setBackground(Color.yellow);
+                jlCinco.setBackground(Color.yellow);
+                jlOito.setBackground(Color.yellow);
+                jlDoze.setBackground(Color.yellow);
+                jlQuatorze.setBackground(Color.yellow);
+                jlDezeseis.setBackground(Color.yellow);
+                jlVinte.setBackground(Color.yellow);
+                break;
+            // Letra Y
+            case 21:
+                limparQuadro();
+                jlUm.setBackground(Color.yellow);
+                jlSete.setBackground(Color.yellow);
+                jlTreze.setBackground(Color.yellow);
+                jlDezeseis.setBackground(Color.yellow);
+                jlDezesete.setBackground(Color.yellow);
+                jlDezoito.setBackground(Color.yellow);
+                jlDezenove.setBackground(Color.yellow);
+                jlVinte.setBackground(Color.yellow);
+                break;
+            // Letra L
+            case 22:
+                limparQuadro();
+                jlUm.setBackground(Color.yellow);
+                jlDois.setBackground(Color.yellow);
+                jlTres.setBackground(Color.yellow);
+                jlQuatro.setBackground(Color.yellow);
+                jlCinco.setBackground(Color.yellow);
+                jlDez.setBackground(Color.yellow);
+                jlQuinze.setBackground(Color.yellow);
+                jlVinte.setBackground(Color.yellow);
+                jlVinteCinco.setBackground(Color.yellow);
+                break;
+            // Letra M
+            case 23:
+                limparQuadro();
+                jlUm.setBackground(Color.yellow);
+                jlDois.setBackground(Color.yellow);
+                jlTres.setBackground(Color.yellow);
+                jlQuatro.setBackground(Color.yellow);
+                jlCinco.setBackground(Color.yellow);
+                jlSete.setBackground(Color.yellow);
+                jlTreze.setBackground(Color.yellow);
+                jlDezesete.setBackground(Color.yellow);
+                jlVinteUm.setBackground(Color.yellow);
+                jlVinteDois.setBackground(Color.yellow);
+                jlVinteTres.setBackground(Color.yellow);
+                jlVinteQuatro.setBackground(Color.yellow);
+                jlVinteCinco.setBackground(Color.yellow);
+                break;
+            // Letra N
+            case 24:
+                limparQuadro();
+                jlUm.setBackground(Color.yellow);
+                jlDois.setBackground(Color.yellow);
+                jlTres.setBackground(Color.yellow);
+                jlQuatro.setBackground(Color.yellow);
+                jlCinco.setBackground(Color.yellow);
+                jlSete.setBackground(Color.yellow);
+                jlTreze.setBackground(Color.yellow);
+                jlDezenove.setBackground(Color.yellow);
+                jlVinteUm.setBackground(Color.yellow);
+                jlVinteDois.setBackground(Color.yellow);
+                jlVinteTres.setBackground(Color.yellow);
+                jlVinteQuatro.setBackground(Color.yellow);
+                jlVinteCinco.setBackground(Color.yellow);
+                break;
+            // Letra O
+            case 25:
+                limparQuadro();
+                jlDois.setBackground(Color.yellow);
+                jlTres.setBackground(Color.yellow);
+                jlQuatro.setBackground(Color.yellow);
+                jlSeis.setBackground(Color.yellow);
+                jlDez.setBackground(Color.yellow);
+                jlOnze.setBackground(Color.yellow);
+                jlQuinze.setBackground(Color.yellow);
+                jlDezeseis.setBackground(Color.yellow);
+                jlVinte.setBackground(Color.yellow);
+                jlVinteDois.setBackground(Color.yellow);
+                jlVinteTres.setBackground(Color.yellow);
+                jlVinteQuatro.setBackground(Color.yellow);
+                break;
+            // Letra P
+            case 26:
+                limparQuadro();
+                jlUm.setBackground(Color.yellow);
+                jlDois.setBackground(Color.yellow);
+                jlTres.setBackground(Color.yellow);
+                jlQuatro.setBackground(Color.yellow);
+                jlCinco.setBackground(Color.yellow);
+                jlSeis.setBackground(Color.yellow);
+                jlOito.setBackground(Color.yellow);
+                jlOnze.setBackground(Color.yellow);
+                jlTreze.setBackground(Color.yellow);
+                jlDezeseis.setBackground(Color.yellow);
+                jlDezoito.setBackground(Color.yellow);
+                jlVinteDois.setBackground(Color.yellow);
+                break;
+            // Letra Q
+            case 27:
+                limparQuadro();
+                jlDois.setBackground(Color.yellow);
+                jlTres.setBackground(Color.yellow);
+                jlQuatro.setBackground(Color.yellow);
+                jlSeis.setBackground(Color.yellow);
+                jlDez.setBackground(Color.yellow);
+                jlOnze.setBackground(Color.yellow);
+                jlQuatorze.setBackground(Color.yellow);
+                jlQuinze.setBackground(Color.yellow);
+                jlDezeseis.setBackground(Color.yellow);
+                jlDezenove.setBackground(Color.yellow);
+                jlVinte.setBackground(Color.yellow);
+                jlVinteDois.setBackground(Color.yellow);
+                jlVinteTres.setBackground(Color.yellow);
+                jlVinteQuatro.setBackground(Color.yellow);
+                break;
+            // Letra R
+            case 28:
+                limparQuadro();
+                jlUm.setBackground(Color.yellow);
+                jlDois.setBackground(Color.yellow);
+                jlTres.setBackground(Color.yellow);
+                jlQuatro.setBackground(Color.yellow);
+                jlCinco.setBackground(Color.yellow);
+                jlSeis.setBackground(Color.yellow);
+                jlOito.setBackground(Color.yellow);
+                jlOnze.setBackground(Color.yellow);
+                jlTreze.setBackground(Color.yellow);
+                jlQuatorze.setBackground(Color.yellow);
+                jlDezeseis.setBackground(Color.yellow);
+                jlDezoito.setBackground(Color.yellow);
+                jlVinte.setBackground(Color.yellow);
+                jlVinteDois.setBackground(Color.yellow);
+                break;
+            // Letra S
+            case 29:
+                limparQuadro();
+                jlDois.setBackground(Color.yellow);
+                jlCinco.setBackground(Color.yellow);
+                jlSeis.setBackground(Color.yellow);
+                jlOito.setBackground(Color.yellow);
+                jlDez.setBackground(Color.yellow);
+                jlOnze.setBackground(Color.yellow);
+                jlTreze.setBackground(Color.yellow);
+                jlQuinze.setBackground(Color.yellow);
+                jlDezeseis.setBackground(Color.yellow);
+                jlDezoito.setBackground(Color.yellow);
+                jlVinte.setBackground(Color.yellow);
+                jlVinteUm.setBackground(Color.yellow);
+                jlVinteQuatro.setBackground(Color.yellow);
+                break;
+            // Letra T
+            case 30:
+                limparQuadro();
+                jlUm.setBackground(Color.yellow);
+                jlSeis.setBackground(Color.yellow);
+                jlOnze.setBackground(Color.yellow);
+                jlDoze.setBackground(Color.yellow);
+                jlTreze.setBackground(Color.yellow);
+                jlQuatorze.setBackground(Color.yellow);
+                jlQuinze.setBackground(Color.yellow);
+                jlDezeseis.setBackground(Color.yellow);
+                jlVinteUm.setBackground(Color.yellow);
+                break;
+            // Letra U
+            case 31:
+                limparQuadro();
+                jlUm.setBackground(Color.yellow);
+                jlDois.setBackground(Color.yellow);
+                jlTres.setBackground(Color.yellow);
+                jlQuatro.setBackground(Color.yellow);
+                jlDez.setBackground(Color.yellow);
+                jlQuinze.setBackground(Color.yellow);
+                jlVinte.setBackground(Color.yellow);
+                jlVinteUm.setBackground(Color.yellow);
+                jlVinteDois.setBackground(Color.yellow);
+                jlVinteTres.setBackground(Color.yellow);
+                jlVinteQuatro.setBackground(Color.yellow);
+                break;
+            // Letra V
+            case 32:
+                limparQuadro();
+                jlUm.setBackground(Color.yellow);
+                jlDois.setBackground(Color.yellow);
+                jlTres.setBackground(Color.yellow);
+                jlNove.setBackground(Color.yellow);
+                jlQuinze.setBackground(Color.yellow);
+                jlDezenove.setBackground(Color.yellow);
+                jlVinteUm.setBackground(Color.yellow);
+                jlVinteDois.setBackground(Color.yellow);
+                jlVinteTres.setBackground(Color.yellow);
+                break;
+            // Letra X
+            case 33:
+                limparQuadro();
+                jlUm.setBackground(Color.yellow);
+                jlCinco.setBackground(Color.yellow);
+                jlSete.setBackground(Color.yellow);
+                jlNove.setBackground(Color.yellow);
+                jlTreze.setBackground(Color.yellow);
+                jlDezesete.setBackground(Color.yellow);
+                jlDezenove.setBackground(Color.yellow);
+                jlVinteUm.setBackground(Color.yellow);
+                jlVinteCinco.setBackground(Color.yellow);
+                break;
+            // Letra Z
+            case 34:
+                limparQuadro();
+                jlUm.setBackground(Color.yellow);
+                jlCinco.setBackground(Color.yellow);
+                jlSeis.setBackground(Color.yellow);
+                jlNove.setBackground(Color.yellow);
+                jlDez.setBackground(Color.yellow);
+                jlOnze.setBackground(Color.yellow);
+                jlTreze.setBackground(Color.yellow);
+                jlQuinze.setBackground(Color.yellow);
+                jlDezeseis.setBackground(Color.yellow);
+                jlDezesete.setBackground(Color.yellow);
+                jlVinte.setBackground(Color.yellow);
+                jlVinteUm.setBackground(Color.yellow);
+                jlVinteCinco.setBackground(Color.yellow);
+                break;
+            // Letra W
+            case 35:
+                limparQuadro();
+                jlUm.setBackground(Color.yellow);
+                jlDois.setBackground(Color.yellow);
+                jlTres.setBackground(Color.yellow);
+                jlQuatro.setBackground(Color.yellow);
+                jlCinco.setBackground(Color.yellow);
+                jlNove.setBackground(Color.yellow);
+                jlTreze.setBackground(Color.yellow);
+                jlDezenove.setBackground(Color.yellow);
+                jlVinteUm.setBackground(Color.yellow);
+                jlVinteDois.setBackground(Color.yellow);
+                jlVinteTres.setBackground(Color.yellow);
+                jlVinteQuatro.setBackground(Color.yellow);
+                jlVinteCinco.setBackground(Color.yellow);
+                break;
 
         }
     }
