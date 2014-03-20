@@ -6,6 +6,7 @@ Serão treinados todos os números de 0 à 9, e todas as letras do alfabeto.
 
 Trabalho Acadêmico do Curso de Engenharia da Computação
 Universidade do Oeste de Santa Catarina - UNOESC/SC
+
 Campus Joaçaba
 Disciplina de Inteligência Artificial II
 
